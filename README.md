@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-ricardo-barrios-amador/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/JuliobaCR"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="mailto:barriosamadorjulioricardo@gmail.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="mailto:juliobacr@gmail.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://x.com/JuliobaCR"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
 <a href="https://discord.com/users/julioba"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
@@ -82,10 +82,10 @@
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Backend & Infra** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Trading & Web3** | ![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-0078D7?style=flat-square&logo=metatrader&logoColor=white) ![TradingView](https://img.shields.io/badge/TradingView-2962FF?style=flat-square&logo=tradingview&logoColor=white) ![Stellar](https://img.shields.io/badge/Stellar-7B2FBE?style=flat-square&logo=stellar&logoColor=white) |
+| **Trading & Web3** | ![Tradovate](https://img.shields.io/badge/Tradovate-1B7F5C?style=flat-square&logo=tradingview&logoColor=white) ![TradingView](https://img.shields.io/badge/TradingView-2962FF?style=flat-square&logo=tradingview&logoColor=white) ![Stellar](https://img.shields.io/badge/Stellar-7B2FBE?style=flat-square&logo=stellar&logoColor=white) ![Soroban](https://img.shields.io/badge/Soroban-000000?style=flat-square&logo=stellar&logoColor=white) |
 
 </div>
 
@@ -102,9 +102,9 @@
 
 ### 🔗 TrulyLedger
 *Infraestructura blockchain para la verificación de contratos digitales en la red Stellar.*
-* 🛠️ **Tech:** Stellar, TypeScript, Node.js
+* 🛠️ **Tech:** Rust, Soroban, Stellar
 * ▹ Arquitectura de seguridad de grado financiero con pistas de auditoría inmutables.
-* ▹ Pipelines automatizados y optimizados para validación de contratos.
+* ▹ Lógica central de contratos inteligentes: ciclo de vida y almacenamiento descentralizado.
 </td>
 <td width="50%" valign="top">
 
@@ -118,19 +118,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Gathel
-*Plataforma de gaming basada en predicciones y resolución de eventos mediante IA.*
-* 🛠️ **Tech:** NestJS, AI, React
-* ▹ Capa de verificación social con infraestructura escalable orientada a Web3.
-* ▹ Motores de IA dedicados al análisis de veracidad y resolución de disputas.
+### 🧬 [alpha-discovery](https://github.com/JuliobaCR/alpha-discovery)
+*Descubrimiento evolutivo multiobjetivo de alphas con operadores guiados por LLM.*
+* 🛠️ **Tech:** Python, NSGA-II, Genetic Programming, LLM APIs
+* ▹ Estudio de ablación controlado sobre 6 objetivos simultáneos (Sharpe, Sortino, Calmar, drawdown, turnover, retorno).
+* ▹ Pipeline de datos del S&P 500 con reconciliación automática entre fuentes y caché en parquet.
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 IEEE Event Platforms
-*Plataformas full-stack escalables para la gestión de comunidades técnicas.*
-* 🛠️ **Tech:** React Native, Next.js, PostgreSQL
-* ▹ Aplicaciones móviles y web desplegadas en capítulos activos de la región.
-* ▹ Soportando cargas e interacción activa de más de 1000 ingenieros.
+*Plataformas full-stack para la gestión de eventos y comunidades técnicas.*
+* 🛠️ **Tech:** React, Vite, Tailwind, Leaflet, Python
+* ▹ Guía web interactiva de CONESCAPAN 2026: 116 presentaciones para más de 150 asistentes.
+* ▹ Verificación automatizada de bibliografía: 3,058 referencias en 191 manuscritos, reduciendo en más de 50% el tiempo de verificación.
 </td>
 </tr>
 </table>
@@ -141,12 +141,12 @@
 ## 📡 MÉTRICAS DEL SISTEMA
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliobarrios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2FBE&text_color=AAAAAA&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliobaCR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=7B2FBE&text_color=AAAAAA&border_radius=10" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobarrios&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=AAAAAA&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliobaCR&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=AAAAAA&border_radius=10" />
   
   <br/><br/>
-  <img width="80%" src="https://streak-stats.demolab.com?user=juliobarrios&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFFF&fire=7B2FBE&currStreakLabel=00FFFF&sideLabels=AAAAAA&sideNums=00FFFF&currStreakNum=FFFFFF&dates=555555&border_radius=10" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=JuliobaCR&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFFF&fire=7B2FBE&currStreakLabel=00FFFF&sideLabels=AAAAAA&sideNums=00FFFF&currStreakNum=FFFFFF&dates=555555&border_radius=10" />
 </div>
 
 ---
