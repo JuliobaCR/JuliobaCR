@@ -144,9 +144,6 @@
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  
-  <br/><br/>
-  <img width="80%" src="https://streak-stats.demolab.com?user=JuliobaCR&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFFF&fire=7B2FBE&currStreakLabel=00FFFF&sideLabels=AAAAAA&sideNums=00FFFF&currStreakNum=FFFFFF&dates=555555&border_radius=10" />
 </div>
 
 ---
